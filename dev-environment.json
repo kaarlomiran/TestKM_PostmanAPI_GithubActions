@@ -1,6 +1,6 @@
 {
 	"id": "e20136b3-60b0-4f7c-9b18-b5a766fdae20",
-	"name": "Dev Env github",
+	"name": "dev-environment.json",
 	"values": [
 		{
 			"key": "baseURL",
@@ -10,7 +10,7 @@
 		},
 		{
 			"key": "name",
-			"value": "Sachin_G",
+			"value": "Kaarlo Miranda",
 			"type": "default",
 			"enabled": true
 		},
@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "city",
-			"value": "Bengaluru",
+			"value": "Manila",
 			"type": "default",
 			"enabled": true
 		},
