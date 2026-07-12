@@ -22,4 +22,4 @@ jobs:
         run: npm install -g newman
 
       - name: Run Collection
-        run: newman run PostmanAPI_KM_Collection.postman_collection.json -e Dev Env github.postman_environment.json
+        run: newman run PostmanAPI_KM_Collection.postman_collection.json -e dev-environment.json
